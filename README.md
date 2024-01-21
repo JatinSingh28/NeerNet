@@ -1,3 +1,5 @@
 # NeerNet
 
 The problem at hand revolves around ensuring safe drinking water for households. The initiative focuses on monitoring water quality in pipes and treatment plants. Implementation of a sensor network detects contaminants, enabling timely intervention and maintenance. The goal is to proactively replace pipes contributing to water contamination, preventing further degradation of water quality. A transparent user-friendly dashboard is developed, allowing consumers to monitor real-time water quality. The objectives include reducing contaminant levels through regular testing, ensuring timely maintenance actions based on sensor data, and enhancing user satisfaction. The project utilizes advanced sensor technology, data analytics, and GIS for effective water quality management.
+
+[Video Link](https://drive.google.com/file/d/1rjkPl3xbPCjukCOnLDJx4hHPKkR5zbf5/view)
